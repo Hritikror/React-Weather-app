@@ -23,5 +23,5 @@ https://openweathermap.org/current
 * `styled-components`
 * `axios`
 * `react-scripts`
-
+* `JSX`
 
